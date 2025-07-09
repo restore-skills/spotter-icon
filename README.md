@@ -1,1 +1,1 @@
-# spotter-icon
+# spotter-icon for "SpotterEmbed"
